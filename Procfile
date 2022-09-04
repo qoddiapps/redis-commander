@@ -1,1 +1,1 @@
-web:redis-commander
+web: redis-commander
